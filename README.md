@@ -43,10 +43,10 @@ The final risk score helps prioritize vulnerabilities for immediate remediation,
 
 To install the required Python packages:
 
-    ```sh
-    pip install requests
-    pip3 install beautifulsoup4
-    ```
+```sh
+pip install requests
+pip3 install beautifulsoup4
+```
 
 ## Usage
 
